@@ -1,0 +1,6 @@
+*.h5
+.DS_Store
+*.db
+**/__pycache__/
+**/TestData/
+
