@@ -1,4 +1,6 @@
 <h1> Retinal Health Diagnostics - The Intelligent Application</h1>
+
+Access the new version of the repo here - https://github.com/TejaCherukuri/RHD
 <h3>Healthy Eyes & Healthy Life with Retinal Health Diagnostics, It's all in the Eyes!!</h3>
 
 
